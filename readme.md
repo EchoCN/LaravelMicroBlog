@@ -2,12 +2,12 @@
 💻 Laravel learning
 
 <p>首页</p>
-<img src="https://raw.githubusercontent.com/EchoCN/LaravelMicroBlog/master/img/%255EV9~V)40Y%24A%403Z1%25MQ49E.png"></img>
+<img src="https://github.com/EchoCN/LaravelMicroBlog/blob/master/img/%602%60_WBLC2P)H%24PN_%5DV%5D%7D7AH.png"></img>
 <p>微博列表</p>
-<img src="https://raw.githubusercontent.com/EchoCN/LaravelMicroBlog/master/img/)9E~)%7BB5YHWA3%25SW%25IO)AJ1.png"></img>
+<img src="https://github.com/EchoCN/LaravelMicroBlog/blob/master/img/%5D%60XMLZCV5A%246%7B07BA9F%25~4S.png"></img>
 <p>登入界面</p>
-<img src="https://raw.githubusercontent.com/EchoCN/LaravelMicroBlog/master/img/E6%24G4%5D%7BW1F~%5BP5%7DY9OB%258WG.png"></img>
+<img src="https://github.com/EchoCN/LaravelMicroBlog/blob/master/img/2I%40BNNL%7D4%60U%24%5BUI)U%5DA_A)X.png"></img>
 <p>个人中心</p>
-<img src="https://raw.githubusercontent.com/EchoCN/LaravelMicroBlog/master/img/LO62Z%7D%40(FI%40%7B%7B%7BM%24%5D8A5%5D%24U.png"></img>
+<img src="https://github.com/EchoCN/LaravelMicroBlog/blob/master/img/W6%40GJ(%40%7BV4Z(F~GO%5B2%5B3T%7D9.png"></img>
 <p>编辑中心</p>
-<img src="https://raw.githubusercontent.com/EchoCN/LaravelMicroBlog/master/img/S6HZ5V0T697C%7B1R7M6~%246%404.png"></img>
+<img src="https://github.com/EchoCN/LaravelMicroBlog/blob/master/img/70NAA296R%5BGJOIAKTD%5DTMAY.png"></img>
